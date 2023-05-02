@@ -30,4 +30,4 @@ echo "Copiando arquivos para o diretório padrão do apache2"
 cd /var/www/html
 rm index.html
 cp /tmp/linux-site-dio-main/* /var/www/html -r
-echo "Arquivos copiados com sucesso"ls
+echo "Arquivos copiados com sucesso"
